@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <!-- header -->
+    <header> 
+        <table>
+            <tr>
+                <td>
+                    <img src="https://scontent.fmnl8-3.fna.fbcdn.net/v/t1.15752-9/368149816_282132334531937_1356974368122771314_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeE3zR0nd0-_53R8JYRAuTEvJwJtjaWjdHonAm2NpaN0esVQ9laBUDHZ6d1pIrubwvt5Xg0zsLaLEjeftZ66Sdnf&_nc_ohc=lfkovlcHBPoAX9eBx85&_nc_ht=scontent.fmnl8-3.fna&oh=03_AdQ07i4IZq1NJZVRk2bLNc0nnar9TU8EKRj-4En_8SirVw&oe=650E8107" alt=""width="127">
+                </td>
+                <td>
+                    <h1>Kenneth C. Borbon</h1>
+                </td>
+            </tr>
+        </table>
+    </header>
+    <br>
+    <!--Personal Details--> 
+    <section>
+        <h2>PERSONAL DETAILS</h2> 
+        <hr>
+        <table>
+            <tr>
+                <td>
+                    <h3>Name:</h3>
+                </td>
+                <td>
+                    <h3>Kenneth C. Borbon</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Birthday:</h3>
+                </td>
+                <td>
+                    <h3>Nov 30 2000</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Age:</h3>
+                </td>
+                <td>
+                    <h3>22</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Sex:</h3>
+                </td>
+                <td>
+                    <h3>Male</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Cellphone:</h3>
+                </td>
+                <td>
+                    <h3>09273823489</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Address:</h3>
+                </td>
+                <td>
+                    <h3>Blk 7 lot 15 Mecury st Fourth Estate San Antonio Paranaque City</h3>
+                </td>
+            </tr>
+        </table>
+    </section>
+    <!--JOB OBJECTIVES-->
+    <section>
+        <h2>JOB OBJECTIVES</h2>
+        <hr>
+        <p>Simply because i want to share my skills and techniques and i want to chance my knowledge and working expereince.</p>
+    </section>
+    <!--EDUCATIONAL ATTAINMENT-->
+    <section>
+        <h2>EDUCATIONAL ATTAINMENT</h2>
+        <hr>
+        <p>Pamantasan ng Lungsod ng Muntinlupa</p>
+        <p>Dr.Arcadio Santos Avenue Muntinlupa</p>
+        <p>Muntinlupa City</p>
+        <p>2022 2023</p>
+     <section>   
+    <!--ACHIEVEMENTS-->
+    </section>
+        <h2>ACHIEMENTS</h2>
+        <hr>
+        <p>top 10 Achievers</p>
+        <p>Pamantasan ng lungsod ng muntinlupa</p>
+        <p>Grade 11 and 12</p>
+        <section>
+        <!--WORK EXPERIENCES-->
+        </section>
+        <h2>WORK EXPERIENCES</h2>
+        <hr>
+        <h2>WAITER</h2>
+        <h2>Pizza Hut, Newark, Nj</h2>
+        <h2>2018 2019</h2>
+        <p>.worked passionalety in customer service in a high-volume restuarant.</p>
+        <p>Complete the F.A.S.T. customer service training class.</p>
+        <p>Maintained a high tip average thanks to consistent customer satistaction</p>
+        <section>
+        <!--SKILLS,INTERETS,HOBBIES-->
+        </section>
+        <h2>SKILLS,INTERETS,HOBBIES</h2>
+        <hr>
+        <p>Team Leader</p>
+        <p>Responsible</p>
+        <p>Workhard</p>
+        <p>RiskTaker</p>
+        <p>SportsPerson</p>
+    </section>
+</body>
+</html>
